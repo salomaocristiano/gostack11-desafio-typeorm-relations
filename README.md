@@ -41,7 +41,7 @@
 
 ## :rocket: Sobre o desafio
 
-Aplicação permitirá a criação de clientes, produtos e pedidos, onde o cliente pode gerar novos pedidos de compra de certos produtos, como um pequeno e-commerce que irá através Node.js junto ao TypeScript, incluindo o uso de banco de dados com o TypeORM, e relacionamentos ManyToMany gerar esta API.
+Aplicação permitirá a criação de clientes, produtos e pedidos, onde o cliente pode gerar novos pedidos de compra de certos produtos, como um pequeno e-commerce que irá através Node.js junto ao TypeScript, incluindo o uso de banco de dados com o TypeORM, e relacionamentos ManyToMany para gerar uma API.
 
 ### Rotas da aplicação
 
